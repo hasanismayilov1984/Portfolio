@@ -1,10 +1,13 @@
 # 🧠 Hasan Ismayilov – Data Science Portfolio
 
-Welcome to my portfolio! Here you'll find real-world data science and machine learning projects that demonstrate my skills in modeling, analysis, and automation.
+Welcome to my data science portfolio!  
+Here you'll find hands-on projects demonstrating my skills in machine learning, data preprocessing, time series forecasting, and model evaluation using Python.
 
 ---
 
 ## 📂 Projects
+
+---
 
 ### 📌 Multi-label Text Classification (Scikit-learn)
 
@@ -21,4 +24,30 @@ This project classifies scientific paper abstracts and titles into multiple rele
 `Pandas`, `Scikit-learn`, `NumPy`, `Matplotlib`, `Seaborn`
 
 📁 **Project Files:**  
-`Test.py`, `test_predictions.csv`
+[`Test.py`](./Test.py), [`test_predictions.csv`](./test_predictions.csv)
+
+---
+
+### 📊 Gold Price Prediction (Scikit-learn)
+
+This project predicts gold closing prices using historical market data. It covers full-cycle modeling: data cleaning, cyclical feature engineering, model evaluation, hyperparameter tuning, and saving the final model pipeline.
+
+🧠 **Key Features:**
+- Reads and cleans raw gold price data (from Google Drive)
+- Extracts & encodes time features using sine/cosine cycles
+- Preprocessing pipeline: Imputation, scaling, feature encoding
+- Trains & compares 14+ models (Linear Regression, Ridge, SVR, LightGBM, etc.)
+- Evaluates with MSE, MAE, R², and cross-validation
+- Hyperparameter tuning using `GridSearchCV`
+- Saves final model + pipeline with `joblib`
+
+🔧 **Tools & Libraries:**  
+`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `LightGBM`, `Joblib`
+
+📁 **Project Files:**  
+[`Gold Prediction Scikit-Learn.py`](./Gold%20Prediction%20Scikit-Learn.py), [`pipeline.pkl`](./pipeline.pkl)
+
+---
+
+## 🔜 More Projects Coming Soon...
+Stay tuned as I continue exploring topics like NLP, computer vision, and deep learning.
