@@ -25,6 +25,9 @@ This project classifies scientific paper abstracts and titles into multiple rele
 
 📁 **Project Files:**  
 [`Test.py`](./Test.py), [`test_predictions.csv`](./test_predictions.csv)
+### 🧠 Multi-label Text Classification  
+Classifies scientific paper abstracts into multiple topics using TF-IDF and Logistic Regression.  
+📘 [View Full Project on Kaggle](https://www.kaggle.com/code/gnkanalytics/multi-output-classification-text-precessing-sci)
 
 ---
 
