@@ -47,6 +47,9 @@ This project predicts gold closing prices using historical market data. It cover
 📁 **Project Files:**  
 [`Gold Prediction Scikit-Learn.py`](./Gold%20Prediction%20Scikit-Learn.py), [`pipeline.pkl`](./pipeline.pkl)
 
+Predicts gold closing prices using time-based features and 14+ regression models.  
+📘 [View Full Project on Kaggle](https://www.kaggle.com/code/gnkanalytics/gold-stock-closing-prediction)
+
 ---
 
 ## 🔜 More Projects Coming Soon...
