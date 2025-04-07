@@ -1,24 +1,37 @@
 # 🧠 Hasan Ismayilov – Data Science Portfolio
 
-Welcome to my portfolio! Here you'll find real-world data science and machine learning projects that demonstrate my skills in modeling, analysis, and automation.
+Welcome to my data science portfolio!  
+Here you'll find hands-on projects demonstrating my skills in machine learning, data preprocessing, time series forecasting, and model evaluation using Python.
 
 ---
 
 ## 📂 Projects
 
-### 📌 Multi-label Text Classification (Scikit-learn)
+---
 
-This project classifies scientific paper abstracts and titles into multiple relevant research categories, such as Computer Science, Mathematics, and Physics.
+### 🧠 Multi-label Text Classification  
+Classifies scientific paper abstracts into multiple topics using TF-IDF and Logistic Regression.  
+📘 [View Full Project on Kaggle](https://www.kaggle.com/code/gnkanalytics/multi-output-classification-text-precessing-sci)
 
-🧠 **Key Features:**
-- Combined text features from `TITLE` and `ABSTRACT`
-- Applied **TF-IDF** vectorization with max 10,000 features
-- Trained a **OneVsRest Logistic Regression** model for multi-label prediction
-- Used **custom probability thresholds** to fine-tune label sensitivity
-- Output predictions on a separate test dataset
+---
 
-🔧 **Tools & Libraries:**  
-`Pandas`, `Scikit-learn`, `NumPy`, `Matplotlib`, `Seaborn`
+### 📊 Gold Stock Closing Prediction  
+Predicts gold closing prices using time-based features and 14+ regression models.  
+📘 [View Full Project on Kaggle](https://www.kaggle.com/code/gnkanalytics/gold-stock-closing-prediction)
 
-📁 **Project Files:**  
-`Test.py`, `test_predictions.csv`
+---
+
+### 🎓 Student Grade Classification  
+Builds a complete ML pipeline to predict student grades using structured data.  
+✅ Includes EDA, preprocessing, model training, hyperparameter tuning, and model export.  
+📘 [View Full Project on Kaggle](https://www.kaggle.com/code/gnkanalytics/ml-students-grade-classification)
+
+
+## 🛠️ Skills
+
+- Python, Pandas, NumPy, Scikit-learn, LightGBM, **TensorFlow, Keras**
+- Machine Learning: Classification, Regression, Cross-Validation
+- Deep Learning: Neural Networks, Multi-label Classification
+- Data Preprocessing, Feature Engineering, Time Series
+- Visualization: Matplotlib, Seaborn
+- Tools: GitHub, VS Code, Kaggle Notebooks
