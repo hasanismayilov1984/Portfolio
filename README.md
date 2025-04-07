@@ -21,6 +21,12 @@ Predicts gold closing prices using time-based features and 14+ regression models
 
 ---
 
+### 🎓 Student Grade Classification  
+Builds a complete ML pipeline to predict student grades using structured data.  
+✅ Includes EDA, preprocessing, model training, hyperparameter tuning, and model export.  
+📘 [View Full Project on Kaggle](https://www.kaggle.com/code/gnkanalytics/ml-students-grade-classification)
+
+
 ## 🛠️ Skills
 
 - Python, Pandas, NumPy, Scikit-learn, LightGBM, **TensorFlow, Keras**
