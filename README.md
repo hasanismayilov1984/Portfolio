@@ -26,6 +26,15 @@ Builds a complete ML pipeline to predict student grades using structured data.
 ✅ Includes EDA, preprocessing, model training, hyperparameter tuning, and model export.  
 📘 [View Full Project on Kaggle](https://www.kaggle.com/code/gnkanalytics/ml-students-grade-classification)
 
+###🐾 Animal Image Classifier (Computer Vision + Streamlit App)
+A custom-trained CNN model that classifies 10 animal types using TensorFlow and Keras.
+Includes data preprocessing, augmentation, model training, validation visualization, and a live Streamlit app for image uploads.
+
+✅ Built from scratch with 26k+ images
+✅ Visualized model performance with Matplotlib
+✅ Deployed with a clean Streamlit UI
+📘 View Project Repo
+
 
 ## 🛠️ Skills
 
