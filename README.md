@@ -51,6 +51,14 @@ A deep learning model that classifies **53 playing card types** using **MobileNe
 
 ---
 
+### 📘 Daily Analytics Exam Series  
+A collection of **30-question self-assessment challenges** focused on real-world data analytics using **Python**, **Pandas**, and **business logic**.  
+Covers topics like streaming trends, sugar consumption, health policy, trade, and segmentation.  
+✅ Designed for practicing grouping, correlation, visualization, and policy impact analysis  
+📘 [View Exam Projects on GitHub](https://github.com/hasanismayilov1984/my-exams)
+
+---
+
 ## 🛠️ Skills
 
 - **Languages**: Python  
@@ -60,4 +68,3 @@ A deep learning model that classifies **53 playing card types** using **MobileNe
 - **Data Handling**: Preprocessing, Feature Engineering, Time Series  
 - **Visualization**: Matplotlib, Seaborn  
 - **Tools**: GitHub, VS Code, Kaggle Notebooks
-
